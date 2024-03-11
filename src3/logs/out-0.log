@@ -1,0 +1,17 @@
+2024-03-12 00:30:11:  current use version in ------>:  3.5.0
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32m_0x2e61b6 dependencies initialized[39m[38;5;3m +68ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPassportModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailerModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +4ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mServeStaticModule dependencies initialized[39m[38;5;3m +5ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mBullModule dependencies initialized[39m[38;5;3m +1ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mBullModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +184ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +14ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailerCoreModule dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32m_0x3d284e dependencies initialized[39m[38;5;3m +0ms[39m
+2024-03-12 00:30:24: [32m[Nest] 30  - [39m03/12/2024, 12:30:24 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32m_0x3d1fa5 dependencies initialized[39m[38;5;3m +20ms[39m
