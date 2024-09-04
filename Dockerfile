@@ -23,6 +23,4 @@ RUN pnpm add sharp@0.33.1
 
 RUN rm -rf node_modules && pnpm install --registry=https://registry.npmmirror.com
 
-EXPOSE 9520
-
 CMD ["pnpm", "start","--no-daemon"]
